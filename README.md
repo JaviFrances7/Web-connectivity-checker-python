@@ -19,3 +19,14 @@ Aplicación de escritorio desarrollada en Python que permite comprobar la conect
 1. Ejecuta el archivo principal:
 ```bash
 python main.py
+```
+
+---
+
+**👤 Autor**
+
+Proyecto desarrollado por Javier Frances
+
+GitHub: JaviFrances7
+
+LinkedIn: https://es.linkedin.com/in/javier-frances-sanz
